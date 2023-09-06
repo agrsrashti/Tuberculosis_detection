@@ -14,8 +14,6 @@ The project will run at localhost:3000
 <br/>
 Watch the working here :- https://imgur.com/a/8UJTPku
 <br>
-Download the document from here:- https://drive.google.com/file/d/1atofaSRJ5cHrA4pNNDpb2DMPqJ3bYRZz/view?usp=sharing
-<br>
 <br>
 <img src="https://i.imgur.com/91RDFqg.jpg"
      style="float: left;" />
